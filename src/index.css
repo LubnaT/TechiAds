@@ -11,3 +11,69 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.navcolor {
+  background: linear-gradient(to right, #0c074d 0%, #025974d0 100%);
+}
+
+.careerimg:hover{
+  transform: scale(1.08);
+  transition-duration: 3s;
+}
+
+.blur{
+  filter: blur(1.3px);
+  filter: brightness(70%);
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 16%;
+  left: 5%;
+}
+
+.joinusimg{
+  width: 40%;
+  margin-left: 30%;
+}
+
+.careertitle{
+  width: 30%;
+  margin-left: 35%;
+}
+
+.bg{
+  background-color:rgb(223, 237, 250);
+}
+
+.col1{
+  position: relative;
+}
+
+.col1img{
+  filter: brightness(40%);
+}
+.col1:hover{
+  transform: scale(1.02);
+  transition-duration: 2s;
+}
+.col1content{
+  position: absolute;
+   top: 10%;
+   left: 0%;
+}
+
+.careerrow{
+  position: relative;
+}
+.arrow{
+  position: absolute;
+  top: 40%;
+  right: 0%;
+  background-color: black;
+}
+.arrow:hover{
+  transform: scale(1.06);
+}
