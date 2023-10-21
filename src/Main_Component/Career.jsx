@@ -91,7 +91,7 @@ function Career() {
                      Our 4 months hands on experience internship program offers hands on experience
                    </div>
                  </div>
-                 <button class="btn btn-primary pt-2" type="button">Apply</button>
+                 <button class="btn btn-primary pt-2" type="button" onClick="careerform()">Apply</button>
                </div>
              </div>
              {/* 4th col*/}
